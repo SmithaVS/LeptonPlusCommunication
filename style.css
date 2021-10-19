@@ -63,7 +63,7 @@ blink {
     opacity:1;
   }
 }
-.bottom-right{
+.row92{
   position: absolute;
   top: 40%;
   right:42%;
@@ -71,9 +71,9 @@ blink {
   color: red;
   font-weight: 500;
   line-height: 80%;
-  text-shadow: 2px 2px #eeaaaa;
+  
 }
-.bottom-right1{
+.row93{
     position: absolute;
     top: 52%;
     right:37%;
@@ -81,7 +81,7 @@ blink {
     color: red;
     font-weight: 500;
     line-height: 85%;
-    text-shadow: 2px 2px #eeaaaa;
+    
   }
   .ingredient
 {
